@@ -30,6 +30,7 @@ body{
 .text{
     border-bottom: 1px solid gray;
     font-size: 12px;
+    opacity: .9;
 }
 .question{
     display: flex;
